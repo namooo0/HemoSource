@@ -9,7 +9,7 @@ The contents of the database will have all blood banks (BB) and hospitals (HOS) 
 This will hopefully accomplish a way for administration to find blood for patients
 who are in need of blood
 
-TIme to find blood will go from multiple phone calls (raning ~15-20 min total) to 
+TIme to find blood will go from multiple phone calls (ranging ~15-20 min total) to 
 a few clicks of the mouse and one phone call
 
 System will incorporate scanning function used to scan blood in and out of BB/HOS
