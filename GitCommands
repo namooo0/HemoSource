@@ -1,0 +1,15 @@
+git pull before every time you work on things
+
+To create branch"
+  - git -b checkout nameOFBranch
+  
+git branch -> show all branches
+git checkout nameOfBranch
+
+To add content:
+  git status -> show everything you've edited
+  git add
+  git commit -m "message on what you did"
+  git push
+  
+  
