@@ -5,14 +5,22 @@
 
 import csv
 
-#put names in database
-input_file = csv.DictReader(open("Hospital-Acquired_Infections__Beginning_2008.csv"))
+"""input_file = csv.DictReader(open("Hospital-Acquired_Infections__Beginning_2008.csv"))
 
-#for row in input_file:
- #   name = int(row["Hospital Name"])
-  #  if name == name
+#set will turn things into dictionary
+
 for row in input_file:
     hosName = row["Hospital Name"]
-    #print(hosName)
-    if hosName == hosName
-        
+    #trueList is a list of all hospital names
+    trueList = hosName
+
+    print(trueList)
+"""
+f = open('Hospital-Acquired_Infections__Beginning_2008.csv')
+csv_f = csv.reader(f)
+
+hosNames = []
+for row in csv_f:
+    hosNames.append(row[2])
+
+print(hosNames)
