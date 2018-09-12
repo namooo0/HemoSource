@@ -23,4 +23,12 @@ hosNames = []
 for row in csv_f:
     hosNames.append(row[2])
 
-print(hosNames)
+    seen = set()
+    result = []
+    for item in hosNames:
+        seen.add(item)
+        result.append(item)
+    print(result)
+
+
+#print(hosNames)
