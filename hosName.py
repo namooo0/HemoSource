@@ -5,30 +5,23 @@
 
 import csv
 
-"""input_file = csv.DictReader(open("Hospital-Acquired_Infections__Beginning_2008.csv"))
+input_file = csv.DictReader(open("Hospital-Acquired_Infections__Beginning_2008.csv"))
+cv_f = input_file
+'''hosName finally gets all hospital names
+   need to get only one copy of each'''
 
-#set will turn things into dictionary
-
-for row in input_file:
-    hosName = row["Hospital Name"]
-    #trueList is a list of all hospital names
-    trueList = hosName
-
-    print(trueList)
-"""
-f = open('Hospital-Acquired_Infections__Beginning_2008.csv')
-csv_f = csv.reader(f)
-
+result = []
 hosNames = []
-for row in csv_f:
-    hosNames.append(row[2])
-
+for row in cv_f:
+    getShit = row["Hospital Name"]
+    hosNames.append(getShit)
+    #print(getShit)
+    #print(hosNames) WORKS!!!!
     seen = set()
-    result = []
     for item in hosNames:
         seen.add(item)
-        result.append(item)
-    print(result)
+        result.append(seen)
+        print(result)
 
 
 #print(hosNames)
