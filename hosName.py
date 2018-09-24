@@ -10,18 +10,20 @@ cv_f = input_file
 '''hosName finally gets all hospital names
    need to get only one copy of each'''
 
-result = []
+
 hosNames = []
 for row in cv_f:
     getShit = row["Hospital Name"]
     hosNames.append(getShit)
     #print(getShit)
-    #print(hosNames) WORKS!!!!
+    #print(hosNames) #WORKS!!!!
     seen = set()
+    result = []
     for item in hosNames:
-        seen.add(item)
-        result.append(seen)
-        print(result)
+        if item not in seen:
+            seen.add(item)
+            result.append(seen)
 
-
+print(result)
 #print(hosNames)
+
