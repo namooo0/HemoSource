@@ -23,7 +23,6 @@ for row in cv_f:
         if item not in seen:
             seen.add(item)
             result.append(seen)
-	return(result)
 
 with open('listOfNames.txt', 'w') as f:
 	for item in result:
