@@ -23,7 +23,8 @@ for row in cv_f:
         if item not in seen:
             seen.add(item)
             result.append(seen)
+	return(result)
 
-print(result)
-#print(hosNames)
-
+with open('listOfNames.txt', 'w') as f:
+	for item in result:
+		f.write("%s'n" % item)
