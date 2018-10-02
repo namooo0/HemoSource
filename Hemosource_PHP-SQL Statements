@@ -1,0 +1,47 @@
+1. Register with Hemosource
+
+INSERT INTO Banks_Hospitals (Name, Street_Num, Street_Name, City, State, Zip_Code, Blood_Bank, Hospital) VALUES ($Name, $Street_Num, $Street_Name, $City, $State, $Zip_Code, $Facility);
+
+2. Order Blood
+
+UPDATE SET $Blood_Type = $Blood_Type - $Order_Qty WHERE Name = $Hospital/Bank_Name;
+
+3. Order Platelets
+
+UPDATE Orders_Plasma SET $Blood_Type = $Blood_Type - $Order_Qty WHERE Name = $Hospital/Bank_Name;
+
+4. Order Plasma
+
+UPDATE Orders_Platelets SET $Blood_Type = $Blood_Type - $Order_Qty WHERE Name = $Hospital/Bank_Name;
+
+3. View Blood Inventory
+
+SELECT * FROM Blood_Inventory;
+
+4. View Platelets Inventory
+
+SELECT * FROM Blood_Platelets;
+
+5. View Plasma Inventory
+
+SELECT * FROM Blood_Plasma;
+
+6. View List of Blood Banks
+
+SELECT Name, Street_Num, Street_Name, City, State, Zip_Code FROM Banks_Hospitals WHERE Hospital IS NOT NULL;
+
+7. View List of Hospitals
+
+SELECT Name, Street_Num, Street_Name, City, State, Zip_Code FROM Banks_Hospitals WHERE Hospital IS NOT NULL;
+
+8. View Inventory for User-Specified Hospital or Blood Bank
+
+SELECT * FROM Blood_Inventory WHERE Name = $Name;
+
+9. View Registration Information for User-Specified Hospital or Blood Bank
+
+SELECT * FROM Banks_Hospitals WHERE Name = $Name;
+
+10. View List of all orders placed
+
+SELECT * FROM Orders_Blood UNION SELECT * FROM Orders_Platelets UNION SELECT * FROM Orders_Plasma ORDER BY Order_ID;
