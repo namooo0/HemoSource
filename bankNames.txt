@@ -1,70 +1,68 @@
-NY	Mount Sinai Beth Israel Hospital	New York	United States
-NY	NYU Langone Hospitals - Tisch Hospital Blood Bank	New York	United States
-NY	Mount Sinai St. Luke's Roosevelt Hospital	New York	United States
-NY	Hospital for Special Surgery	New York	United States
-NY	Lenox Hill Hospital	New York	United States
-NY	Memorial Sloan Kettering Cancer Center	New York	United States
-NY	NY Presbyterian Hosp./Weill Cornell Med. Ctr.	New York	United States
-NY	St. Luke's Roosevelt Hospital Center	New York	United States
-NY	Mount Sinai Medical Center	New York	United States
-NY	New York Presbyterian Hospital	New York	United States
-NY	Harlem Hospital Center	New York	United States
-NY	Metro Blood Service	Yonkers	United States
-NY	Staten Island University Hospital North	Staten Island	United States
-NY	Richmond University Medical Center	Staten Island	United States
-NY	Lincoln Medical and Mental Health Center	Bronx	United States
-NY	St. Barnabas Hospital	Bronx	United States
-NY	James J. Peters VA Medical Center	Bronx	United States
-NY	Northern Westchester Hospital Center	Mount Kisco	United States
-NY	Phelps Memorial Hospital	Sleepy Hollow	United States
-NY	White Plains Hospital Center	White Plains	United States
-NY	The New York Presbyterian Lawrence Hospital	Bronxville	United States
-NY	Keller Army Community Hospital	West Point	United States
-NY	North Shore University Hospital	Manhasset	United States
-NY	Long Island Jewish Medical Center	New Hyde Park	United States
-NY	Kingsbrook Jewish Medical Center	Brooklyn	United States
-NY	NewYork-Presbyterian Brooklyn Methodist Hospital	Brooklyn	United States
-NY	Maimonides Medical Center	Brooklyn	United States
-NY	NewYork-Presbyterian/Queens	Flushing	United States
-NY	Jamaica Hospital Medical Center	Jamaica	United States
-NY	Queens Hospital Center	Jamaica	United States
-NY	Winthrop University Hospital	Mineola	United States
-NY	South Nassau Communities Hospital	Oceanside	United States
-NY	Northport VAMC	Northport	United States
-NY	Stony Brook University Medical Center	Stony Brook	United States
-NY	Good Samaritan Hospital	West Islip	United States
-NY	Samuel S. Stratton VAMC	Albany	United States
-NY	Northern Dutchess Hospital	Rhinebeck	United States
-NY	Vassar Brothers Medical Center	Poughkeepsie	United States
-NY	Westchester Medical Center Mid-Hudson Valley Division	Poughkeepsie	United States
-NY	Catskill Regional Medical Center - Seelig Divison	Harris	United States
-NY	Champlain Valley Physicians Medical Center	Plattsburgh	United States
-NY	Syracuse VA Medical Center	Syracuse	United States
-NY	Mary Imogene Bassett Hospital	Cooperstown	United States
-NY	Samaritan Medical Center	Watertown	United States
-NY	Kaleida Health Buffalo General Hospital	Buffalo	United States
-NY	Erie County Medical Center	Buffalo	United States
-NY	Roswell Park Cancer Institute Corp.	Buffalo	United States
-NY	Highland Hospital of Rochester	Rochester	United States
-NY	Rochester General Hospital	Rochester	United States
-NY	Unity Hospital Laboratory	Rochester	United States
-NY	University of Rochester	Rochester	United States
-NY	UPMC Chautauqua At WCA	Jamestown	United States
-NY	Arnot-Ogden Medical Center	Elmira	United States
-NY	Woodhull Medical & Mental Health Center	Brooklyn	United States
-NY	Elmhurst Hospital Center	Elmhurst	United States
-NY	Putnam Hospital Center	Carmel	United States
-NY	New York Blood Center	Long Island City	United States
-NY	Albany Medical Center Hospital	Albany	United States
-NY	American Red Cross Blood Services	West Henrietta	United States
-NY	Bellevue Hospital Center	New York	United States
-NY	New York Presbyterian Lower Manhattan Hospital	New York	United States
-NY	Huntington Hospital Northshore Long Island Jewish Health	Huntington	United States
-NY	New York Blood Center	New York	United States
-NY	New York Blood Center - Valhalla	Valhalla	United States
-NY	DeGraff Memorial Hospital	North Tonawand	United States
-NY	St. Peter's Hospital	Albany	United States
-NY	John R Oishei Children's Hospital	Buffalo	United States
-NY	Faxton-St. Lukes Healthcare-St. Lukes Site	Utica	United States
-NY	Kaleida-Millard Fillmore Health System	Williamsville	United States
-NY	United Memorial Medical Center	Batavia	United States
+Mount Sinai Beth Israel Hospital	 	 
+U Langone Hospitals - Tisch Hospital Blood Bank	 	 
+Mount Sinai St. Luke's Roosevelt Hospital	 	 
+Hospital for Special Surgery	 	 
+Lenox Hill Hospital	 	 
+Memorial Sloan Kettering Cancer Center	 	 
+Presbyterian Hosp./Weill Cornell Med. Ctr.	 	 
+St. Luke's Roosevelt Hospital Center	 	 
+Mount Sinai Medical Center	 	 
+Presbyterian Hospital	 	 
+Harlem Hospital Center	 	 
+Metro Blood Service	Yonkers	 
+Staten Island University Hospital North	Staten Island	 
+Richmond University Medical Center	Staten Island	 
+Lincoln Medical and Mental Health Center	Bronx	 
+St. Barnabas Hospital	Bronx	 
+James J. Peters VA Medical Center	Bronx	 
+Northern Westchester Hospital Center	Mount Kisco	 
+Phelps Memorial Hospital	Sleepy Hollow	 
+White Plains Hospital Center	White Plains	 
+The   Presbyterian Lawrence Hospital	Bronxville	 
+Keller Army Community Hospital	West Point	 
+North Shore University Hospital	Manhasset	 
+Long Island Jewish Medical Center	New Hyde Park	 
+Kingsbrook Jewish Medical Center	Brooklyn	 
+NewYork-Presbyterian Brooklyn Methodist Hospital	Brooklyn	 
+Maimonides Medical Center	Brooklyn	 
+NewYork-Presbyterian/Queens	Flushing	 
+Jamaica Hospital Medical Center	Jamaica	 
+Queens Hospital Center	Jamaica	 
+Winthrop University Hospital	Mineola	 
+South Nassau Communities Hospital	Oceanside	 
+Northport VAMC	Northport	 
+Sto  Brook University Medical Center	Sto  Brook	 
+Good Samaritan Hospital	West Islip	 
+Samuel S. Stratton VAMC	Alba 	 
+Northern Dutchess Hospital	Rhinebeck	 
+Vassar Brothers Medical Center	Poughkeepsie	 
+Westchester Medical Center Mid-Hudson Valley Division	Poughkeepsie	 
+Catskill Regional Medical Center - Seelig Divison	Harris	 
+Champlain Valley Physicians Medical Center	Plattsburgh	 
+Syracuse VA Medical Center	Syracuse	 
+Mary Imogene Bassett Hospital	Cooperstown	 
+Samaritan Medical Center	Watertown	 
+Kaleida Health Buffalo General Hospital	Buffalo	 
+Erie County Medical Center	Buffalo	 
+Roswell Park Cancer Institute Corp.	Buffalo	 
+Highland Hospital of Rochester	Rochester	 
+Rochester General Hospital	Rochester	 
+Unity Hospital Laboratory	Rochester	 
+University of Rochester	Rochester	 
+UPMC Chautauqua At WCA	Jamestown	 
+Arnot-Ogden Medical Center	Elmira	 
+Woodhull Medical & Mental Health Center	Brooklyn	 
+Elmhurst Hospital Center	Elmhurst	 
+Putnam Hospital Center	Carmel	 
+Blood Center	Long Island City	 
+Alba  Medical Center Hospital	Alba 	 
+American Red Cross Blood Services	West Henrietta	 
+Bellevue Hospital Center	 	 
+Presbyterian Lower Manhattan Hospital	 	 
+Huntington Hospital Northshore Long Island Jewish Health	Huntington	 
+	DeGraff Memorial Hospital	North Tonawand	 
+ 	St. Peter's Hospital	Alba 	 
+ 	John R Oishei Children's Hospital	Buffalo	 
+ 	Faxton-St. Lukes Healthcare-St. Lukes Site	Utica	 
+ 	Kaleida-Millard Fillmore Health System	Williamsville	 
+ 	United Memorial Medical Center	Batavia	 
