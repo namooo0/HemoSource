@@ -16,6 +16,7 @@ cv_f = input_file
     other hos, alb
     ugh
 '''
+runrun = random.sample(range(75, 1000), 8)
 hosNames = []
 for row in cv_f:
     getShit = row["Hospital Name"]
@@ -29,10 +30,8 @@ for row in cv_f:
         
         if item not in seen:
             seen.add(item)
-            result.append(item) + runrun
+            result.append(item)
 
-runrun = random.sample(range(75, 1000), 8)
-
-with open('listOfNames.txt', 'w') as f:
+with open('listOfNamesData.txt', 'w') as f:
 	for item in result:
-		f.write("%s'n" % item)
+		f.write("%s/n" % item + runrun)
