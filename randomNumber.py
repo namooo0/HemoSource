@@ -16,22 +16,11 @@ cv_f = input_file
     other hos, alb
     ugh
 '''
-runrun = random.sample(range(75, 1000), 8)
-hosNames = []
-for row in cv_f:
-    getShit = row["Hospital Name"]
-    #print(getShit)
-    hosNames.append(getShit)
-    #print(getShit)
-    #print(hosNames) #WORKS!!!!
-    seen = set()
-    result = []
-    for item in hosNames:
-        
-        if item not in seen:
-            seen.add(item)
-            result.append(item)
+i = random.sample(range(75, 1000), 8)
+run = i *200
+print(run)
 
-with open('listOfNamesData.txt', 'w') as f:
-	for item in result:
-		f.write("%s/n" % item + runrun)
+
+
+with open('listOfData.txt', 'w') as f:
+	f.write("%s/n" % run)
