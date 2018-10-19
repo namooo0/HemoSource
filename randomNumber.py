@@ -18,9 +18,13 @@ cv_f = input_file
 '''
 i = random.sample(range(75, 1000), 8)
 run = i *200
-print(run)
+#print(run)
 
-
+x = 8
+while x < len(i):
+    i.insert(x, '\n')
+    i += (n+1)
 
 with open('listOfData.txt', 'w') as f:
-	f.write("%s/n" % run)
+    for x in i:
+        f.write("%s'n" % run)
