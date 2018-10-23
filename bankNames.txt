@@ -1,0 +1,68 @@
+Mount Sinai Beth Israel Hospital	 	 
+U Langone Hospitals - Tisch Hospital Blood Bank	 	 
+Mount Sinai St. Luke's Roosevelt Hospital	 	 
+Hospital for Special Surgery	 	 
+Lenox Hill Hospital	 	 
+Memorial Sloan Kettering Cancer Center	 	 
+Presbyterian Hosp./Weill Cornell Med. Ctr.	 	 
+St. Luke's Roosevelt Hospital Center	 	 
+Mount Sinai Medical Center	 	 
+Presbyterian Hospital	 	 
+Harlem Hospital Center	 	 
+Metro Blood Service	Yonkers	 
+Staten Island University Hospital North	Staten Island	 
+Richmond University Medical Center	Staten Island	 
+Lincoln Medical and Mental Health Center	Bronx	 
+St. Barnabas Hospital	Bronx	 
+James J. Peters VA Medical Center	Bronx	 
+Northern Westchester Hospital Center	Mount Kisco	 
+Phelps Memorial Hospital	Sleepy Hollow	 
+White Plains Hospital Center	White Plains	 
+The   Presbyterian Lawrence Hospital	Bronxville	 
+Keller Army Community Hospital	West Point	 
+North Shore University Hospital	Manhasset	 
+Long Island Jewish Medical Center	New Hyde Park	 
+Kingsbrook Jewish Medical Center	Brooklyn	 
+NewYork-Presbyterian Brooklyn Methodist Hospital	Brooklyn	 
+Maimonides Medical Center	Brooklyn	 
+NewYork-Presbyterian/Queens	Flushing	 
+Jamaica Hospital Medical Center	Jamaica	 
+Queens Hospital Center	Jamaica	 
+Winthrop University Hospital	Mineola	 
+South Nassau Communities Hospital	Oceanside	 
+Northport VAMC	Northport	 
+Sto  Brook University Medical Center	Sto  Brook	 
+Good Samaritan Hospital	West Islip	 
+Samuel S. Stratton VAMC	Alba 	 
+Northern Dutchess Hospital	Rhinebeck	 
+Vassar Brothers Medical Center	Poughkeepsie	 
+Westchester Medical Center Mid-Hudson Valley Division	Poughkeepsie	 
+Catskill Regional Medical Center - Seelig Divison	Harris	 
+Champlain Valley Physicians Medical Center	Plattsburgh	 
+Syracuse VA Medical Center	Syracuse	 
+Mary Imogene Bassett Hospital	Cooperstown	 
+Samaritan Medical Center	Watertown	 
+Kaleida Health Buffalo General Hospital	Buffalo	 
+Erie County Medical Center	Buffalo	 
+Roswell Park Cancer Institute Corp.	Buffalo	 
+Highland Hospital of Rochester	Rochester	 
+Rochester General Hospital	Rochester	 
+Unity Hospital Laboratory	Rochester	 
+University of Rochester	Rochester	 
+UPMC Chautauqua At WCA	Jamestown	 
+Arnot-Ogden Medical Center	Elmira	 
+Woodhull Medical & Mental Health Center	Brooklyn	 
+Elmhurst Hospital Center	Elmhurst	 
+Putnam Hospital Center	Carmel	 
+Blood Center	Long Island City	 
+Alba  Medical Center Hospital	Alba 	 
+American Red Cross Blood Services	West Henrietta	 
+Bellevue Hospital Center	 	 
+Presbyterian Lower Manhattan Hospital	 	 
+Huntington Hospital Northshore Long Island Jewish Health	Huntington	 
+	DeGraff Memorial Hospital	North Tonawand	 
+ 	St. Peter's Hospital	Alba 	 
+ 	John R Oishei Children's Hospital	Buffalo	 
+ 	Faxton-St. Lukes Healthcare-St. Lukes Site	Utica	 
+ 	Kaleida-Millard Fillmore Health System	Williamsville	 
+ 	United Memorial Medical Center	Batavia	 
