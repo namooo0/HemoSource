@@ -16,15 +16,16 @@ cv_f = input_file
     other hos, alb
     ugh
 '''
-#i = random.sample(range(75, 1000), 8)
-#run = i *200
-please = 0
-#print(run)
-while please < 200:
-    i = random.sample(range(75, 1000), 8)
-    please += 1
 
-print(i)
+#print(random.sample(range(75, 1000), 8))
+
+#run = i *2
+please = 0
+while please < 200:
+    print(random.sample(range(75, 1000), 8))
+    please+=1
+#print(run)
+
 with open('listOfData.txt', 'w') as f:
-    for x in i:
-        f.write("%s'n" % run)
+    f.write("%s\n" % i)
+
