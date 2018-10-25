@@ -52,6 +52,12 @@ CREATE TABLE Blood_Plasma (
 	FOREIGN KEY(Name) REFERENCES Banks_Hospitals(Name)
 );
 
+CREATE TABLE hos_name (
+	Name VARCHAR(50) NOT NULL UNIQUE,
+	Registered VARCHAR(4) NOT NULL,
+	PRIMARY KEY(Name)
+);
+
 CREATE TABLE Login_Info (
 	Username VARCHAR(30) NOT NULL UNIQUE,
 	Pass VARCHAR(30) NOT NULL UNIQUE,
