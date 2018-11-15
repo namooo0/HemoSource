@@ -6,28 +6,32 @@ Created on Wed Oct 24 16:04:28 2018
 """
 
 import csv
-import geopy.geocoders
+from geopy.geocoders import Nominatim
 
 url= 'https://maps.googleapis.com/maps/api/geocode/json'
 
-input_file = csv.DictReader(open("Hospital-Acquired_Infections__Beginning_2008.csv"))
 new_csv = csv.DictReader(open("coordinates.csv"))
 coord = new_csv
-cv_f = input_file
 
-coord = []
+geolocator = Nominatim(user_agent="HemoSource")
+#location = geolocator.reverse("52.509669, 13.376294")
+#print(location.address)
+result = []
+lats = []
+longs = []
 
-for row in cv_f:
-    getAdd = row["Location 1"]
-    coord.append(getAdd)
-    seen = set()
-    result = []
-    for item in coord:        
-        if item not in seen:
-            seen.add(item)
-            result.append(item)
+for lat in coord:
+    x = lat["Latitude"]
+    y = lat["Longitude"]
+ #   print(x, y)
+
+#print(complex(y))
+    location = geolocator.reverse((x, y))
+
+    result.append(location.address)
+    
+
+with open('ThisIsTheListOfAddresses.txt', 'w') as f:
+	for item in result:
+		f.write("%s\n" % item)
             
-for i in result:
-    wow = i.strip('()')
-    print (wow)
-
