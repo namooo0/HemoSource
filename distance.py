@@ -21,6 +21,7 @@ d = distance.distance
 albany = (42.653238, -73.773969)
 
 result = []
+result2 = []
 
 for lat in coord:
     x = lat["Latitude"]
@@ -30,6 +31,10 @@ for lat in coord:
     helps = distance.distance(albany, everything).miles
     result.append(helps)
         
+    for i in result:
+        new_val = round(float(i), 1)
+        result2.append(new_val)
+
 with open('distancesFromAlbany.txt', 'w') as f:
-	for item in result:
+	for item in result2:
 		f.write("%s\n" % item)
