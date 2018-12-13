@@ -1,0 +1,198 @@
+ Albany Medical Center Hospital,163, 328, 128, 707, 843, 915, 579, 573
+Albany Memorial Hospital,266, 196, 790, 880, 601, 711, 885, 529
+St Peters Hospital,188, 501, 502, 136, 215, 712, 667, 776
+Memorial Hosp of Wm F & Gertrude F Jones A/K/A Jones Memorial Hosp,201, 668, 832, 189, 825, 250, 263, 270
+United Health Services Hospitals Inc. - Binghamton General Hospital,618, 431, 355, 568, 945, 302, 858, 379
+Our Lady of Lourdes Memorial Hospital Inc,443, 915, 883, 122, 197, 535, 119, 523
+United Health Services Hospitals Inc. - Wilson Medical Center,213, 499, 140, 568, 444, 408, 709, 305
+Olean General Hospital,233, 851, 836, 220, 712, 734, 862, 514
+Auburn Community Hospital,200, 107, 213, 545, 683, 126, 743, 439
+Brooks Memorial Hospital,85, 468, 295, 608, 724, 833, 333, 839
+UPMC Chautauqua at WCA,876, 601, 440, 991, 250, 954, 714, 503
+New York State - All Hospitals,279, 291, 477, 647, 544, 775, 868, 299
+TLC Health Network Lake Shore Hospital,393, 425, 219, 658, 402, 630, 577, 866
+Arnot Ogden Medical Center,711, 521, 260, 374, 673, 720, 87, 994
+St. Joseph's Hospital,801, 671, 679, 104, 742, 279, 720, 294
+Chenango Memorial Hospital Inc,82, 492, 324, 668, 947, 772, 861, 328
+The University of Vermont Health Network - Champlain Valley Physicians Hospital,103, 120, 571, 864, 370, 681, 693, 649
+Columbia Memorial Hospital,472, 916, 503, 910, 635, 495, 516, 854
+Cortland Regional Medical Center Inc,397, 511, 885, 286, 470, 696, 268, 850
+Mid-Hudson Valley Division of Westchester Medical Center,235, 211, 265, 316, 547, 987, 894, 184
+Vassar Brothers Medical Center,82, 427, 158, 443, 368, 644, 300, 643
+Northern Dutchess Hospital,828, 220, 528, 717, 667, 472, 893, 343
+United Memorial Medical Center North Street Campus,142, 812, 327, 406, 306, 155, 627, 854
+Buffalo General Medical Center,570, 509, 348, 977, 468, 896, 789, 266
+Women And Children's Hospital Of Buffalo,962, 575, 95, 402, 934, 550, 347, 643
+Erie County Medical Center,280, 851, 236, 621, 813, 616, 473, 503
+Mercy Hospital of Buffalo,831, 75, 185, 862, 329, 84, 792, 863
+Roswell Park Cancer Institute,145, 876, 275, 835, 708, 969, 803, 846
+Sisters of Charity Hospital,403, 313, 831, 758, 430, 84, 75, 106
+University Hospital,669, 459, 340, 205, 238, 293, 248, 593
+Kenmore Mercy Hospital,727, 729, 256, 956, 441, 917, 808, 891
+Bertrand Chaffee Hospital,634, 266, 686, 127, 165, 128, 289, 353
+Sisters of Charity Hospital - St Joseph Campus,245, 744, 198, 753, 993, 846, 144, 165
+Adirondack Medical Center-Saranac Lake Site,623, 456, 739, 129, 855, 406, 279, 956
+Alice Hyde Medical Center,472, 959, 611, 643, 806, 460, 850, 441
+Nathan Littauer Hospital,364, 443, 326, 341, 752, 486, 625, 303
+Samaritan Medical Center,542, 189, 205, 306, 541, 414, 724, 222
+Nicholas H Noyes Memorial Hospital,390, 768, 803, 891, 531, 829, 808, 563
+Oneida Healthcare,842, 925, 504, 573, 326, 169, 943, 496
+Highland Hospital,815, 482, 425, 860, 817, 396, 973, 539
+Rochester General Hospital,136, 598, 792, 272, 280, 794, 580, 168
+Strong Memorial Hospital,721, 654, 700, 998, 724, 737, 273, 637
+Monroe Community Hospital,704, 485, 104, 951, 781, 268, 551, 454
+The Unity Hospital of Rochester,209, 933, 306, 610, 241, 480, 404, 365
+St. Mary's Healthcare,225, 595, 402, 232, 253, 492, 446, 680
+Glen Cove Hospital,277, 678, 400, 383, 980, 683, 706, 358
+NYU Winthrop Hospital,881, 553, 572, 327, 206, 400, 441, 459
+Mercy Medical Center,93, 731, 922, 453, 155, 806, 300, 392
+Long Island Jewish Valley Stream,553, 816, 250, 320, 211, 343, 323, 353
+South Nassau Communities Hospital,384, 351, 516, 435, 950, 841, 709, 736
+Nassau University Medical Center,734, 722, 204, 791, 842, 609, 119, 314
+North Shore University Hospital,852, 77, 818, 329, 112, 121, 640, 435
+Syosset Hospital,183, 841, 500, 859, 577, 550, 775, 92
+St. Joseph Hospital,628, 893, 472, 768, 833, 910, 939, 737
+Plainview Hospital,801, 114, 789, 400, 130, 444, 401, 710
+St Francis Hospital,499, 787, 160, 233, 365, 936, 821, 419
+Eastern Niagara Hospital - Lockport Division,183, 686, 446, 792, 501, 546, 887, 160
+Niagara Falls Memorial Medical Center,266, 748, 364, 933, 867, 709, 245, 488
+Degraff Memorial Hospital,143, 139, 555, 150, 91, 805, 162, 147
+Mount St Marys Hospital and Health Center,252, 922, 697, 952, 886, 406, 147, 744
+Rome Memorial Hospital, Inc,430, 319, 283, 107, 438, 829, 676, 376
+St Elizabeth Medical Center,221, 317, 137, 904, 293, 102, 716, 259
+Faxton-St Lukes Healthcare St Lukes Division,923, 377, 331, 340, 166, 499, 713, 520
+UPSTATE University Hospital at Community General,606, 175, 879, 318, 261, 851, 281, 752
+St Josephs Hospital Health Center,425, 553, 854, 521, 984, 603, 767, 534
+University Hospital SUNY Health Science Center,544, 483, 763, 141, 860, 663, 433, 580
+Crouse Hospital,863, 106, 280, 403, 203, 942, 178, 87
+Geneva General Hospital,904, 880, 801, 382, 714, 983, 850, 391
+Clifton Springs Hospital and Clinic,163, 123, 803, 467, 473, 750, 403, 959
+F F Thompson Hospital,905, 722, 585, 477, 127, 538, 142, 442
+St Luke's Cornwall Hospital/Newburgh,169, 88, 504, 881, 143, 326, 202, 743
+Orange Regional Medical Center,139, 100, 654, 723, 595, 280, 782, 450
+St Anthony Community Hospital,451, 662, 472, 993, 454, 918, 212, 123
+Bon Secours Community Hospital,308, 80, 370, 822, 296, 382, 325, 690
+Oswego Hospital,995, 996, 646, 282, 827, 328, 332, 318
+Aurelia Osborn Fox Memorial Hospital,321, 244, 860, 616, 128, 335, 928, 178
+Helen Hayes Hospital,525, 913, 680, 784, 889, 999, 547, 920
+Mary Imogene Bassett Hospital,659, 817, 261, 925, 184, 742, 108, 385
+Putnam Hospital Center,618, 511, 279, 990, 501, 193, 234, 767
+Samaritan Hospital,571, 741, 572, 977, 480, 794, 148, 101
+Nyack Hospital,93, 469, 174, 114, 808, 735, 901, 622
+Good Samaritan Hospital of Suffern,889, 974, 796, 473, 739, 193, 633, 972
+Claxton-Hepburn Medical Center,778, 738, 847, 652, 391, 478, 179, 375
+Massena Memorial Hospital,945, 548, 783, 328, 591, 731, 238, 840
+Canton-Potsdam Hospital,622, 93, 798, 371, 512, 627, 667, 430
+Saratoga Hospital,638, 681, 772, 173, 155, 358, 645, 506
+Ellis Hospital,988, 820, 177, 935, 348, 126, 879, 466
+Sunnyview Hospital and Rehabilitation Center,280, 798, 705, 322, 632, 208, 881, 430
+Ellis Hospital - Bellevue Woman's Care Center Division,89, 93, 462, 524, 149, 131, 176, 120
+Cobleskill Regional Hospital,963, 906, 334, 186, 129, 866, 554, 231
+Corning Hospital,855, 621, 158, 575, 760, 307, 195, 301
+St James Mercy Hospital,806, 618, 750, 463, 809, 651, 358, 755
+Ira Davenport Memorial Hospital Inc,317, 920, 717, 414, 279, 691, 433, 874
+Brookhaven Memorial Hospital Medical Center Inc,212, 747, 337, 467, 186, 235, 924, 960
+University Hospital - Stony Brook Southampton Hospital,263, 388, 385, 691, 201, 681, 827, 107
+Eastern Long Island Hospital,908, 520, 596, 261, 198, 91, 84, 408
+John T Mather Memorial Hospital of Port Jefferson New York Inc,429, 835, 543, 494, 757, 580, 862, 436
+St Charles Hospital,703, 267, 112, 517, 736, 590, 689, 463
+Huntington Hospital,148, 208, 306, 881, 883, 985, 710, 980
+Southside Hospital,902, 288, 267, 550, 908, 275, 82, 696
+Good Samaritan Hospital Medical Center,967, 998, 669, 999, 189, 516, 509, 777
+Peconic Bay Medical Center,563, 634, 678, 459, 135, 689, 490, 422
+St Catherine of Siena Hospital,854, 903, 324, 979, 301, 502, 901, 80
+Catskill Regional Medical Center,890, 554, 136, 656, 202, 987, 476, 966
+Cayuga Medical Center at Ithaca,536, 962, 992, 379, 190, 241, 245, 660
+HealthAlliance Hospital Mary's Avenue Campus,967, 332, 711, 422, 322, 724, 872, 336
+HealthAlliance Hospital Broadway Campus,503, 443, 803, 96, 618, 754, 463, 911
+Glens Falls Hospital,776, 650, 200, 990, 121, 227, 132, 778
+Newark-Wayne Community Hospital,449, 466, 778, 473, 803, 377, 849, 819
+NewYork-Presbyterian/Hudson Valley Hospital,778, 167, 640, 654, 115, 889, 487, 885
+White Plains Hospital Center,488, 327, 183, 961, 122, 308, 338, 155
+Montefiore Mount Vernon Hospital,620, 638, 461, 629, 691, 315, 149, 797
+Montefiore New Rochelle Hospital,227, 987, 509, 265, 773, 455, 454, 937
+SJRH - Dobbs Ferry Pavillion,128, 621, 263, 379, 653, 158, 719, 521
+SJRH - St Johns Division,617, 340, 939, 529, 398, 447, 342, 801
+St Joseph's Medical Center,296, 376, 367, 961, 890, 234, 589, 796
+Northern Westchester Hospital,340, 990, 858, 111, 272, 685, 868, 103
+NewYork-Presbyterian Lawrence Hospital,851, 556, 504, 501, 179, 700, 550, 392
+Phelps Memorial Hospital Assn,675, 339, 246, 464, 626, 769, 191, 934
+Blythedale Childrens Hospital,294, 810, 220, 328, 103, 500, 182, 263
+Westchester Medical Center,748, 169, 680, 845, 533, 972, 823, 275
+Wyoming County Community Hospital,227, 765, 179, 505, 346, 800, 613, 304
+Jacobi Medical Center,951, 868, 768, 713, 135, 599, 414, 404
+Montefiore Medical Center-Wakefield Hospital,509, 762, 950, 147, 647, 850, 757, 429
+Montefiore Medical Center - Henry & Lucy Moses Div,232, 568, 132, 596, 397, 222, 944, 624
+Lincoln Medical & Mental Health Center,549, 604, 424, 628, 491, 451, 243, 908
+Calvary Hospital Inc,766, 916, 291, 784, 906, 801, 614, 565
+SBH Health System,727, 303, 657, 833, 845, 343, 363, 270
+Bronx-Lebanon Hospital Center - Concourse Division,80, 216, 446, 586, 608, 259, 667, 758
+North Central Bronx Hospital,121, 749, 309, 325, 761, 249, 404, 580
+Brookdale Hospital Medical Center,433, 567, 452, 906, 897, 930, 964, 275
+Brooklyn Hospital Center - Downtown Campus,532, 982, 603, 182, 952, 665, 453, 354
+New York Community Hospital of Brooklyn, Inc,892, 552, 794, 622, 955, 113, 771, 138
+Coney Island Hospital,687, 152, 655, 578, 503, 493, 289, 260
+Kings County Hospital Center,647, 102, 763, 795, 911, 563, 565, 130
+NYU Langone Hospital-Brooklyn,233, 380, 627, 96, 796, 834, 832, 114
+Maimonides Medical Center,689, 739, 275, 90, 998, 955, 442, 557
+NewYork-Presbyterian Brooklyn Methodist Hospital,315, 448, 488, 550, 584, 492, 272, 985
+Interfaith Medical Center,922, 253, 946, 127, 390, 803, 617, 94
+Kingsbrook Jewish Medical Center,116, 948, 159, 323, 549, 191, 431, 593
+Wyckoff Heights Medical Center,443, 272, 645, 600, 192, 273, 263, 550
+University Hospital of Brooklyn,163, 780, 858, 581, 593, 131, 816, 182
+Mount Sinai Brooklyn,170, 127, 733, 274, 76, 171, 456, 575
+New York-Presbyterian/Lower Manhattan Hospital,105, 422, 804, 656, 135, 153, 973, 349
+Bellevue Hospital Center,513, 354, 582, 970, 342, 127, 497, 307
+Mount Sinai Beth Israel,761, 841, 645, 272, 615, 532, 549, 361
+Harlem Hospital Center,79, 687, 815, 393, 260, 949, 684, 331
+NYU Langone Orthopedic Hospital,888, 621, 896, 287, 803, 528, 92, 631
+Hospital for Special Surgery,997, 919, 456, 688, 798, 920, 722, 397
+Lenox Hill Hospital,862, 935, 306, 642, 875, 749, 856, 492
+Memorial Hospital for Cancer and Allied Diseases,716, 184, 739, 897, 829, 423, 201, 233
+Metropolitan Hospital Center,913, 446, 663, 555, 977, 957, 475, 223
+Mount Sinai Hospital,749, 675, 682, 884, 714, 882, 732, 680
+New York Presbyterian Hospital - New York Weill Cornell Center,599, 992, 422, 580, 846, 471, 401, 864
+New York Eye and Ear Infirmary of Mount Sinai,326, 919, 517, 602, 752, 442, 291, 302
+NYU Langone Hospitals,192, 851, 692, 977, 284, 970, 604, 279
+New York Presbyterian Hospital - Columbia Presbyterian Center,450, 300, 499, 562, 741, 810, 404, 725
+New York Presbyterian Hospital - Morgan Stanley,733, 531, 459, 477, 218, 511, 208, 597
+Mount Sinai West,761, 981, 503, 254, 994, 824, 536, 249
+Mount Sinai St. Luke's,357, 104, 987, 123, 234, 281, 877, 154
+Henry J. Carter Specialty Hospital,484, 815, 529, 720, 356, 595, 241, 922
+Elmhurst Hospital Center,752, 902, 460, 675, 580, 841, 673, 532
+Flushing Hospital Medical Center,858, 244, 602, 311, 646, 215, 565, 778
+Jamaica Hospital Medical Center,610, 723, 890, 673, 790, 626, 980, 158
+Long Island Jewish Medical Center,490, 712, 436, 111, 364, 945, 416, 601
+Queens Hospital Center,934, 722, 235, 570, 399, 485, 779, 295
+St Johns Episcopal Hospital So Shore,675, 431, 917, 278, 841, 800, 943, 935
+NewYork-Presbyterian/Queens,554, 965, 838, 964, 631, 636, 399, 514
+Long Island Jewish Forest Hills,696, 596, 557, 643, 733, 382, 715, 843
+Mount Sinai Hospital - Mount Sinai Hospital of Queens,385, 536, 933, 665, 176, 93, 585, 988
+Woodhull Medical & Mental Health Center,717, 242, 605, 830, 900, 255, 661, 560
+Staten Island University Hosp-South,885, 540, 566, 493, 633, 840, 125, 132
+Richmond University Medical Center,661, 915, 234, 298, 931, 393, 149, 420
+Staten Island University Hosp-North,388, 857, 581, 568, 817, 643, 897, 262
+Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,491, 928, 633, 140, 336, 520, 490, 615
+Millard Fillmore Suburban Hospital,265, 271, 367, 115, 941, 705, 523, 433
+Cohen Childrens Medical Center,727, 88, 978, 708, 577, 887, 104, 817
+New York Presbyterian Hospital - Allen Hospital,902, 489, 996, 947, 131, 76, 347, 583
+The Burdett Care Center,278, 311, 781, 462, 92, 711, 406, 328
+St. Mary's Hospital,329, 559, 84, 122, 716, 920, 998, 918
+Winifred Masterson Burke Rehabilitation Hospital,556, 649, 554, 333, 686, 644, 601, 808
+Carthage Area Hospital Inc,901, 353, 987, 269, 689, 272, 859, 893
+Lewis County General Hospital,742, 963, 887, 373, 789, 460, 935, 125
+Community Memorial Hospital Inc,459, 731, 536, 332, 94, 943, 443, 109
+Eastern Niagara Hospital - Newfane Division,566, 981, 672, 611, 503, 687, 260, 813
+Medina Memorial Hospital,551, 483, 230, 114, 952, 873, 276, 832
+SUNY Downstate Medical Center at LICH,465, 561, 451, 310, 280, 233, 678, 891
+Lakeside Memorial Hospital,608, 396, 495, 346, 995, 984, 687, 698
+Long Beach Medical Center,440, 379, 250, 730, 432, 418, 944, 892
+Gouverneur Hospital,958, 754, 190, 559, 346, 552, 464, 712
+Montefiore Medical Center - Montefiore Westchester Square,580, 443, 974, 166, 532, 840, 129, 259
+Millard Fillmore Hospital,102, 878, 423, 564, 535, 389, 372, 729
+Peninsula Hospital Center,531, 288, 147, 408, 158, 455, 269, 632
+SVCMC-St Vincents Manhattan,671, 405, 796, 210, 336, 937, 294, 297
+North General Hospital,95, 643, 997, 690, 551, 129, 731, 906
+Albert Lindley Lee Memorial Hospital,740, 772, 426, 665, 445, 469, 928, 787
+St Johns Queens Hospital,298, 617, 431, 573, 158, 754, 86, 450
+Mary Immaculate Hospital,860, 775, 302, 195, 428, 988, 807, 326

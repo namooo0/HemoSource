@@ -1,0 +1,176 @@
+Name#Address#Phone Number#Distance#Registered
+Albany Medical Center Hospital#Albany Medical Center, 43, New Scotland Avenue, New Scotland, Albany, Albany County, New York, 12208#(331) 363-9146#0.0
+Albany Memorial Hospital#Albany Memorial Hospital, 600, Northern Boulevard, Arbor Hill, Albany, Albany County, New York, 12204#(690) 975-4895#1.9
+St Peters Hospital#Saint Peter's Hospital, 315, South Manning Boulevard, New Scotland, Albany, Albany County, New York, 12208#(822) 679-8088#1.6
+Memorial Hosp of Wm F & Gertrude F Jones A/K/A Jones Memorial Hosp#Jones Memorial Hospital, 191, North Main Street, Wellsville, Allegany County, New York, 14895#(867) 599-8739#216.8
+United Health Services Hospitals Inc. - Binghamton General Hospital#Binghamton General Hospital, 10-42, Mitchell Avenue, Southside, Binghamton, Broome County, New York, 13903#(573) 352-7803#117.2
+Our Lady of Lourdes Memorial Hospital Inc#Lourdes Hospital, 169, Riverside Drive, Westside, Binghamton, Union Town, Broome County, New York, 13905#(886) 573-3676#117.8
+United Health Services Hospitals Inc. - Wilson Medical Center#Binghamton General Hospital Parking, Park Avenue, Southside, Binghamton, Broome County, New York, 13902#(926) 762-0446#241.3
+Olean General Hospital#OGH, 515, Main Street, Olean, Cattaraugus County, New York, 14760#(377) 797-2891#143.2
+Auburn Community Hospital#ACH, 17, Lansing Street, Auburn, Cayuga County, New York, 13021#(200) 603-3097#283.9
+Brooks Memorial Hospital#Brooks Memorial Hospital, 529, Central Avenue, Dunkirk, Chautauqua County, New York, 14048#(385) 887-6814#282.0
+UPMC Chautauqua at WCA#UPMC Chautauqua WCA, 207, Foote Avenue, Jamestown, Chautauqua County, New York, 14702#(902) 259-3504#273.0
+New York State - All Hospitals#123, Test way,Test,Test county,New York,00000#(612) 787-8001#999.0
+TLC Health Network Lake Shore Hospital#Lake Shore Health Care Center, 845, Main Road, Hanford Bay, Chautauqua County, New York, 14081#(829) 945-3175#160.8
+Arnot Ogden Medical Center#Arnot Ogden Medical Center, 600, Roe Avenue, Elmira, Chemung County, New York, 14905#(205) 958-7608#159.5
+St. Joseph's Hospital#Saint Joseph's Hospital, 555, St. Joseph Boulevard, Elmira, Chemung County, New York, 14901#(604) 888-9383#89.6
+Chenango Memorial Hospital Inc#UHS Chenango Memorial Hospital, 179, North Broad Street, City of Norwich, Town of Norwich, Chenango County, New York, 13815#(518) 478-2029#142.2
+The University of Vermont Health Network - Champlain Valley Physicians Hospital#Champlain Valley Physicians Hospital, 75, Beekman Street, Plattsburgh, Clinton County, New York, 12901#(896) 982-6392#28.1
+Columbia Memorial Hospital#Columbia Memorial Hospital, 71, Prospect Avenue, Hudson, Columbia County, New York, 12534#(472) 854-1658#123.0
+Cortland Regional Medical Center Inc#13, West Main Street, Cortland, Cortlandville Town, Cortland County, New York, 13045#(714) 503-8390#65.1
+Mid-Hudson Valley Division of Westchester Medical Center#MidHudson Regional Hospital, 241, North Road, Fairview, Town of Poughkeepsie, Dutchess County, New York, 12601#(624) 427-5840#66.7
+Vassar Brothers Medical Center#VBMC, 45, Reade Place, Poughkeepsie, Dutchess County, New York, 12601#(743) 654-0237#50.1
+Northern Dutchess Hospital#Northern Dutchess Hospital, 6511, Spring Brook Avenue, Rhinebeck, Town of Rhinebeck, Dutchess County, New York, 12572#(877) 343-1200#259.4
+United Memorial Medical Center North Street Campus#United Memorial Medical Center, 127, North Street, Batavia, Genesee County, New York, 14020#(632) 838-1449#260.0
+Buffalo General Medical Center#BGMC, 100, High Street, Allentown, Buffalo, Erie County, New York, 14203#(517) 871-6898#257.7
+Women And Children's Hospital Of Buffalo#203, Bryant Street, Elmwood Village, Buffalo, Erie County, New York, 14222#(732) 541-2045#256.7
+Erie County Medical Center#ECMC, 462, Grider Street, Central Park, Buffalo, Erie County, New York, 14215#(356) 660-3993#259.4
+Mercy Hospital of Buffalo#198, Lorraine Avenue, Buffalo, Erie County, New York, 14220#(573) 543-8262#258.7
+Roswell Park Cancer Institute#Kensington Expressway, Buffalo, Erie County, New York, 14203#(453) 749-1372#125.1
+Sisters of Charity Hospital#Sisters of Charity Hospital, 2157, Main Street, Parkside, Buffalo, Erie County, New York, 14214#(348) 557-0238#260.3
+University Hospital#East Loop Road, South Setauket, Suffolk County, New York, 11794#(391) 654-9135#249.4
+Kenmore Mercy Hospital#Kenmore Mercy Hospital, 2950, Elmwood Avenue, Tonawanda, Tonawanda Town, Erie County, New York, 14217#(438) 535-7721#255.3
+Bertrand Chaffee Hospital#224, Elm Street, Springville, Erie County, New York, 14141#(966) 766-1122#118.2
+Sisters of Charity Hospital - St Joseph Campus#Sisters of Charity Hospital, Saint Joseph Campus, 2605, Harlem Road, Cheektowaga, Cheektowaga Town, Erie County, New York, 14225#(549) 571-1572#154.3
+Adirondack Medical Center-Saranac Lake Site#Adirondack Medical Center, 2233, NY 86, Saranac Lake, Franklin County, New York, 12983#(521) 317-7379#40.2
+Alice Hyde Medical Center#Alice Hyde Medical Center, 133, Park Street, Malone, Franklin County, New York, 12953#(858) 803-7002#225.0
+Nathan Littauer Hospital#97, East State Street, City of Gloversville, Town of Johnstown, Fulton County, New York, 12078#(202) 288-6823#140.8
+Samaritan Medical Center#Samaritan Medical Center, 830, Washington Street, Watertown, Jefferson County, New York, 13601#(584) 967-3410#130.0
+Nicholas H Noyes Memorial Hospital#Noyes Memorial Hospital, 111, Clara Barton Street, Dansville, North Dansville Town, Livingston County, New York, 14437#(872) 609-2409#117.5
+Oneida Healthcare#Oneida Healthcare, 321, Genesee Street, City of Oneida, Madison County, New York, 13421#(675) 716-5077#200.3
+Highland Hospital#Highland Hospital, 1000, South Avenue, Strong, Rochester, Monroe County, New York, 14620#(530) 798-4070#99.9
+Rochester General Hospital#Rochester Regional Health: Rochester General Campus, 1425, Portland Avenue, Irondequoit, Irondequoit Town, Monroe County, New York, 14621#(305) 475-6907#90.6
+Strong Memorial Hospital#University of Rochester Medical Center Campus, Middle Drive, Strong, Rochester, Monroe County, New York, 14642#(761) 521-0317#197.4
+Monroe Community Hospital#MCH, 435, East Henrietta Road, Strong, Rochester, Monroe County, New York, 14424#(729) 636-0672#196.8
+The Unity Hospital of Rochester#Unity Hospital, 1555, Long Pond Road, Greece, Greece Town, Monroe County, New York, 14626#(265) 993-8372#198.1
+St. Mary's Healthcare#Saint Mary's Hospital, 427, Guy Park Avenue, South Amsterdam, City of Amsterdam, Montgomery County, New York, 12010#(587) 455-6310#202.7
+Glen Cove Hospital#Glen Cove Hospital, 101, Saint Andrews Lane, Glen Cove, Nassau County, New York, 11542#(679) 546-5953#30.6
+NYU Winthrop Hospital#NYU Winthrop Hospital, 259, 1st Street, Mineola, Nassau County, New York, 11501#(214) 870-5815#123.2
+Mercy Medical Center#992, North Village Avenue, Lakeview, Nassau County, New York, 11570#(377) 803-5296#142.2
+Long Island Jewish Valley Stream#Long Island Jewish Valley Stream, 900, Franklin Avenue, North Valley Stream, Nassau County, New York, 11580#(322) 632-3754#132.1
+South Nassau Communities Hospital#South Nassau Communities Hospital, 1, Oswald Court, Oceanside, Nassau County, New York, 11572#(837) 516-6778#135.8
+Nassau University Medical Center#Nassau University Medical Center, 2201, Hempstead Turnpike, East Meadow, Nassau County, New York, 11554#(958) 338-3912#136.1
+North Shore University Hospital#2, High Street, Manhasset, Nassau County, New York, 11030#(296) 405-8838#138.5
+Syosset Hospital#Syosset Hospital, 221, Jericho Turnpike, Bagga Plaza, Syosset, Nassau County, New York, 11791#(935) 209-5514#133.5
+St. Joseph Hospital#St Joseph Hospital, 4295, Hempstead Turnpike, Levittown, Nassau County, New York, 11735#(376) 756-4483#129.4
+Plainview Hospital#Plainview Hospital, 888, Old Country Road, Plainview, Nassau County, New York, 11803#(376) 210-5884#127.9
+St Francis Hospital#38, Bayberry Ridge, Flower Hill, Nassau County, New York, 11576#(308) 675-2037#133.9
+Eastern Niagara Hospital - Lockport Division#Eastern Niagara Health System, 521, East Avenue, Lockport, Lockport Town, Niagara County, New York, 14094#(551) 864-6907#130.6
+Niagara Falls Memorial Medical Center#Niagara Falls Memorial Medical Center, 621, 10th Street, Niagara Falls, Niagara County, New York, 14302#(234) 511-4357#128.0
+Degraff Memorial Hospital#DeGraff Memorial Hospital, 445, Tremont Street, North Tonawanda, Niagara County, New York, 14120#(920) 209-0796#251.0
+Mount St Marys Hospital and Health Center#Mount Saint Mary's Hospital, 5300, Military Road, Lewiston Heights, Lewiston Town, Niagara County, New York, 14092#(791) 727-8330#269.6
+Rome Memorial Hospital, Inc#Rome Memorial Hospital, 1500, North James Street, City of Rome, Oneida County, New York, 13440#(388) 635-4121#259.7
+St Elizabeth Medical Center#Saint Elizabeth Medical Center, 2209, Genesee Street, City of Utica, Oneida County, New York, 13502#(961) 519-3141#268.9
+Faxton-St Lukes Healthcare St Lukes Division#Saint Lukes Memorial Hospital, 1656, Champlin Avenue, City of Utica, Town of New Hartford, Oneida County, New York, 13502#(721) 778-3418#253.8
+UPSTATE University Hospital at Community General#Upstate University Hospital Community Campus, 4900, Broad Road, Elmwood, Syracuse, Town of Onondaga, Onondaga County, New York, 13215#(600) 692-6040#93.6
+St Josephs Hospital Health Center#Saint Josephs Hospital Health Center, 301, Prospect Avenue, Downtown, Syracuse, Onondaga County, New York, 13203#(677) 518-9977#81.4
+University Hospital SUNY Health Science Center#Upstate University Downtown Campus, East Adams Street, University Hill, Syracuse, Onondaga County, New York, 13210#(933) 881-7649#82.2
+Crouse Hospital#Crouse Hospital, 736, Irving Avenue, University Hill, Syracuse, Onondaga County, New York, 13210#(860) 718-5923#124.2
+Geneva General Hospital#Geneva General Hospital, 196, North Street, Geneva, Geneva Town, Ontario County, New York, 14456#(414) 329-6021#123.8
+Clifton Springs Hospital and Clinic#Coulter Road, Clifton Springs, Manchester Town, Ontario County, New York, 14432#(757) 264-4004#123.1
+F F Thompson Hospital#F.F. Thompson Hospital, 350, Parrish Street, Canandaigua, Canandaigua Town, Ontario County, New York, 14424#(250) 984-9656#123.0
+St Luke's Cornwall Hospital/Newburgh#Saint Luke's Cornwall Hospital, 70, Dubois Street, Newburgh, Orange County, New York, 12550#(387) 400-2921#164.1
+Orange Regional Medical Center#Orange Regional Medical Center, 707, East Main Street, Midway Park, Town of Wallkill, Orange County, New York, 10940#(905) 278-0186#172.3
+St Anthony Community Hospital#Saint Anthony Community Hospital, 15, Maple Avenue, Warwick, Town of Warwick, Orange County, New York, 10990#(627) 400-3251#179.5
+Bon Secours Community Hospital#Bon Secours Community Hospital, 160, East Main Street, Port Jervis, Orange County, New York, 12771#(692) 535-8275#80.3
+Oswego Hospital#Oswego Hospital, 110, West 6th Street, Oswego, Oswego County, New York, 13126#(238) 761-5755#89.2
+Aurelia Osborn Fox Memorial Hospital#A. O. Fox Hospital, 1, Norton Avenue, City of Oneonta, Otsego County, New York, 13820#(860) 254-7093#100.7
+Helen Hayes Hospital#Helen Hayes Hospital, S Liberty Dr, West Haverstraw, Haverstraw, Rockland County, New York, 10993#(647) 589-3516#100.3
+Mary Imogene Bassett Hospital#Bassett Medical Center, 1, Atwell Road, Cooperstown, Town of Otsego, Otsego County, New York, 13326#(378) 214-0973#237.7
+Putnam Hospital Center#PHC, 670, Stoneleigh Avenue, Carmel, Town of Carmel, Putnam County, New York, 10512#(721) 465-3669#141.0
+Samaritan Hospital#Samaritan Hospital, 2215, Burdett Avenue, Downtown, City of Troy, Rensselaer County, New York, 12180#(200) 968-5335#66.7
+Nyack Hospital#Nyack Hospital, 160, North Midland Avenue, Nyack, Town of Orangetown, Rockland County, New York, 10960#(442) 529-3519#58.6
+Good Samaritan Hospital of Suffern#Good Samaritan Hospital, 255, Lafayette Avenue, Suffern, Town of Ramapo, Rockland County, New York, 10901#(569) 357-3831#87.7
+Claxton-Hepburn Medical Center#Claxton-Hepburn Medical Center, 214, King Street, Ogdensburg, Saint Lawrence County, New York, 13669#(507) 380-3247#8.0
+Massena Memorial Hospital#160, Maple Street, Massena, Saint Lawrence County, New York, 13662#(630) 847-4118#107.7
+Canton-Potsdam Hospital#122, Leroy Street, Potsdam, Saint Lawrence County, New York, 13676#(441) 424-5927#108.0
+Saratoga Hospital#Saratoga Hospital, 211, Church Street, City of Saratoga Springs, Saratoga County, New York, 12866#(758) 374-1395#165.2
+Ellis Hospital#Wendell Avenue, Schenectady, Schenectady County, New York, 12308#(497) 566-3998#167.5
+Sunnyview Hospital and Rehabilitation Center#Sunnyview Rehibilitation Hospital, 1270, Belmont Avenue, Schenectady, Schenectady County, New York, 12308#(457) 294-6749#144.3
+Ellis Hospital - Bellevue Woman's Care Center Division#Bellevue Woman's Center, 2210, Troy Schenectady Road, Hawthorne Hill, Niskayuna, Schenectady County, New York, 12309#(206) 973-4733#152.2
+Cobleskill Regional Hospital#Cobleskill Regional Hospital, 178, Grandview Drive, Cobleskill, Town of Cobleskill, Schoharie County, New York, 12043#(390) 908-1019#29.8
+Corning Hospital#Denison Parkway East, Corning, Steuben County, New York, 14830#(655) 985-8148#13.7
+St James Mercy Hospital#Saint James Mercy Hospital, 411, Canisteo Street, Hornell, Steuben County, New York, 14843#(324) 540-4092#171.2
+Ira Davenport Memorial Hospital Inc#Ira Davenport Memorial Hospital, 7571, State Highway 54, Bath, Steuben County, New York, 14810#(999) 852-2356#199.9
+Brookhaven Memorial Hospital Medical Center Inc#42, Hospital Road, East Patchogue, Suffolk County, New York, 11772#(629) 666-0332#180.0
+University Hospital - Stony Brook Southampton Hospital#Stony Brook Southampton Hospital, 240, Meeting House Lane, Southampton, Suffolk County, New York, 11968#(452) 573-6018#135.7
+Eastern Long Island Hospital#Eastern Long Island Hospital, 201, Manor Place, Greenport, Suffolk County, New York, 11944#(670) 529-4265#141.6
+John T Mather Memorial Hospital of Port Jefferson New York Inc#John T. Mather Memorial Hospital, 75, North Country Road, Port Jefferson, Suffolk County, New York, 11777#(477) 562-0518#129.0
+St Charles Hospital#Saint Charles Hospital, 200, Belle Terre Road, Port Jefferson, Suffolk County, New York, 11777#(553) 375-3261#124.1
+Huntington Hospital#Huntington Hospital, 270, Park Avenue, Huntington, Suffolk County, New York, 11743#(296) 922-6471#137.4
+Southside Hospital#Southside Hospital, 301, East Main Street, Bay Shore, Suffolk County, New York, 11706#(421) 258-5310#123.4
+Good Samaritan Hospital Medical Center#Good Samaritan Hospital Medical Center, 1000, Montauk Highway, West Islip, Suffolk County, New York, 11795#(263) 253-5101#123.8
+Peconic Bay Medical Center#Peonic Bay Medical Center, 1300, Roanoke Avenue, Riverhead, Suffolk County, New York, 11901#(567) 532-9450#135.9
+St Catherine of Siena Hospital#53, St Johnland Road, Smithtown, Suffolk County, New York, 11787#(837) 907-4838#131.6
+Catskill Regional Medical Center#52, Big Woods Road, Harris, Town of Thompson, Sullivan County, New York, 12742#(790) 480-5530#126.5
+Cayuga Medical Center at Ithaca#Cayuga Medical Center at Ithaca, 101, Harris B Dates Drive, Northwest Ithaca, Tompkins County, New York, 14850#(384) 582-4196#81.0
+HealthAlliance Hospital Mary's Avenue Campus#HealthAlliance Hospital Mary's Avenue Campus, 105, Marys Avenue, Kingston, Ulster County, New York, 12401#(491) 305-7789#141.5
+HealthAlliance Hospital Broadway Campus#HealthAlliance Hospital Broadway Campus, 396, Broadway, Kingston, Ulster County, New York, 12401#(795) 772-0527#51.8
+Glens Falls Hospital#Glens Falls Hospital, 100, Park Street, Glens Falls, Warren County, New York, 12801#(467) 265-5605#51.4
+Newark-Wayne Community Hospital#154, Stuerwald Avenue, Newark, Arcadia Town, Wayne County, New York, 14513#(706) 749-2422#45.6
+NewYork-Presbyterian/Hudson Valley Hospital#Hudson Valley Hospital Center, 1980, Crompond Road, Peekskill, Cortland, Westchester County, New York, 10567#(679) 316-0934#171.3
+White Plains Hospital Center#White Plains Hospital, 41, East Post Road, White Plains, Westchester County, New York, 10601#(964) 905-7475#94.2
+Montefiore Mount Vernon Hospital#Montefiore Mount Vernon Hospital, 12, North 7th Avenue, Mount Vernon, Westchester County, New York, 10550#(565) 453-1258#112.3
+Montefiore New Rochelle Hospital#Montefiore New Rochelle, 16, Guion Place, New Rochelle, Westchester County, New York, 10801#(246) 917-8867#120.2
+SJRH - Dobbs Ferry Pavillion#Saint John's Riverside Hospital - Dobbs Ferry Pavilion, 128, Ashford Avenue, Dobbs Ferry, Town of Greenburgh, Westchester County, New York, 10522#(273) 876-4998#120.1
+SJRH - St Johns Division#Saint John's Riverside Hospital, 967, North Broadway, Yonkers, Westchester County, New York, 10701#(606) 926-0702#116.4
+St Joseph's Medical Center#2, Vark Street, Yonkers, Westchester County, New York, 10701#(882) 872-2581#119.1
+Northern Westchester Hospital#Northern Westchester Hospital, 400, East Main Street, Mount Kisco, Westchester County, New York, 10549#(733) 314-6838#100.6
+NewYork-Presbyterian Lawrence Hospital#NewYork-Presbyterian - Lawrence Hospital, 55, Palmer Avenue, Bronxville, Town of Eastchester, Westchester County, New York, 10708#(704) 501-7130#118.2
+Phelps Memorial Hospital Assn#Phelps Lane, Sleepy Hollow, Town of Mount Pleasant, Westchester County, New York, 10591#(208) 269-8601#106.8
+Blythedale Childrens Hospital#Blythedale Children's Hospital, 95, Bradhurst Avenue, Mount Pleasant, Town of Mount Pleasant, Westchester County, New York, 10595#(317) 840-6563#108.1
+Westchester Medical Center#47, Galloway Lane, Mount Pleasant, Town of Mount Pleasant, Westchester County, New York, 10595#(667) 327-1174#222.0
+Wyoming County Community Hospital#Wyoming County Community Health System, 400, North Main Street, Warsaw, Wyoming County, New York, 14569#(229) 200-2535#124.0
+Jacobi Medical Center#Albert Einstein College of Medicine, Morris Park Avenue, Morris Park, The Bronx, Bronx County, NYC, New York, 10461#(207) 655-4938#121.5
+Montefiore Medical Center-Wakefield Hospital#Montefiore Medical Center - Wakefield Campus, 600, East 233rd Street, Wakefield, The Bronx, Bronx County, NYC, New York, 10466#(890) 452-9697#122.5
+Montefiore Medical Center - Henry & Lucy Moses Div#Montefiore, 111, East 210th Street, Norwood, The Bronx, Bronx County, NYC, New York, 10467#(978) 243-1257#126.9
+Lincoln Medical & Mental Health Center#Lincoln Hospital, 234, Canal Place, Mott Haven, Bronx County, NYC, New York, 10455#(658) 330-0662#124.3
+Calvary Hospital Inc#1728, Eastchester Road, Morris Park, The Bronx, Bronx County, NYC, New York, 10461#(206) 770-7762#125.1
+SBH Health System#Saint Barnabas Hospital, 4487, 3rd Avenue, Belmont, The Bronx, Bronx County, NYC, New York, 10457#(751) 698-7085#125.2
+Bronx-Lebanon Hospital Center - Concourse Division#Bronx-Lebanon Hospital Center Concourse Division, 1650, Grand Concourse, Tremont, The Bronx, Bronx County, NYC, New York, 10457#(636) 325-7682#122.5
+North Central Bronx Hospital#North Central Bronx Hospital, 3424, Kossuth Avenue, Norwood, The Bronx, Bronx County, NYC, New York, 10467#(341) 929-7043#138.1
+Brookdale Hospital Medical Center#2134, Strauss Street, Brownsville, BK, Kings County, NYC, New York, 11212#(927) 408-0756#135.9
+Brooklyn Hospital Center - Downtown Campus#Long Island University Brooklyn Campus, 1, Willoughby Street, Downtown Brooklyn, Kings County, NYC, New York, 11201#(640) 549-5013#141.1
+New York Community Hospital of Brooklyn, Inc#2523, Kings Highway, Flatlands, BK, Kings County, NYC, New York, 11229#(872) 925-9297#143.0
+Coney Island Hospital#Coney Island Hospital, 2601, Ocean Parkway, Brighton Beach, Kings County, NYC, New York, 11235#(269) 628-6929#138.1
+Kings County Hospital Center#Kings County Hospital Center, 451, Clarkson Avenue, Brooklyn Community Board 17 Neighborhoods, BK, Kings County, NYC, New York, 11203#(601) 721-6697#135.9
+NYU Langone Hospital-Brooklyn#NYU Langone Hospital, 150, 55th Street, Sunset Park, Kings County, NYC, New York, 11220#(975) 689-6288#139.1
+Maimonides Medical Center#Maimonides Medical Center, 4802, 10th Avenue, Borough Park, BK, Kings County, NYC, New York, 11219#(281) 310-4062#139.5
+NewYork-Presbyterian Brooklyn Methodist Hospital#NewYork-Presbyterian Brooklyn Methodist Hospital, 506, 6th Street, Park Slope, BK, Kings County, NYC, New York, 11216#(859) 213-8706#137.4
+Interfaith Medical Center#Interfaith Medical Center, 1545, Atlantic Avenue, Bed-Stuy, BK, Kings County, NYC, New York, 11213#(912) 663-1538#136.6
+Kingsbrook Jewish Medical Center#Kingsbrook Jewish Medical Center, 585, Schenectady Avenue, East Flatbush, BK, Kings County, NYC, New York, 11203#(965) 286-6685#137.8
+Wyckoff Heights Medical Center#Wyckoff Heights Medical Center, 374, Stockholm Street, Ridgewood, Queens County, NYC, New York, 11237#(832) 731-7880#134.7
+University Hospital of Brooklyn#SUNY Downstate Campus, Lenox Road, Brooklyn Community Board 17 Neighborhoods, BK, Kings County, NYC, New York, 11203#(927) 923-4245#138.2
+Mount Sinai Brooklyn#1370, East 32nd Street, Flatlands, BK, Kings County, NYC, New York, 11210#(989) 225-4009#140.7
+New York-Presbyterian/Lower Manhattan Hospital#HSP 01 - NYPresb. Downtown, 170, William Street, Financial District, Manhattan, Manhattan Community Board 1, New York County, NYC, New York, 10038#(899) 361-5516#134.6
+Bellevue Hospital Center#NYC Health + Hospitals/Bellevue, 462, 1st Avenue, Kips Bay, Manhattan, Manhattan Community Board 6, New York County, NYC, New York, 10010#(399) 394-9538#132.5
+Mount Sinai Beth Israel#6, East 16th Street, Union Square, Manhattan, Manhattan Community Board 5, New York County, NYC, New York, 10003#(929) 740-7021#133.0
+Harlem Hospital Center#502, Malcolm X Boulevard, Harlem, Manhattan, Manhattan Community Board 10, New York County, NYC, New York, 10037#(522) 406-0561#127.2
+NYU Langone Orthopedic Hospital#310, 2nd Avenue, Kips Bay, Manhattan, Manhattan Community Board 6, New York County, NYC, New York, 10003#(436) 477-8899#132.9
+Hospital for Special Surgery#HSP 14 - NYPresb. Weill Cornell, 525, East 68th Street, Lenox Hill, Manhattan, Manhattan Community Board 8, New York County, NYC, New York, 10065#(753) 613-2079#130.6
+Lenox Hill Hospital#Lenox Hill Hospital, 100, East 77th Street, Upper East Side, Manhattan, Manhattan Community Board 8, New York County, NYC, New York, 10075#(466) 655-0011#130.1
+Memorial Hospital for Cancer and Allied Diseases#1285, York Avenue, Lenox Hill, Manhattan, Manhattan Community Board 8, New York County, NYC, New York, 10065#(248) 921-9456#129.2
+Metropolitan Hospital Center#HSP 12 - Metropolitan Hospital, 1901, 1st Avenue, East Harlem, Manhattan, Manhattan Community Board 11, New York County, NYC, New York, 10129#(282) 821-5198#128.9
+Mount Sinai Hospital#The Mount Sinai Hospital, 1, Gustave L. Levy Place, East Harlem, Manhattan, Manhattan Community Board 11, New York County, NYC, New York, 10129#(588) 753-1792#130.7
+New York Presbyterian Hospital - New York Weill Cornell Center#HSP 14 - NYPresb. Weill Cornell, 525, East 68th Street, Lenox Hill, Manhattan, Manhattan Community Board 8, New York County, NYC, New York, 10065#(618) 684-2687#132.2
+New York Eye and Ear Infirmary of Mount Sinai#East 14th Street & 2nd Avenue, East 14th Street, East Village, Manhattan, Manhattan Community Board 6, New York County, NYC, New York, 10003#(667) 856-4622#125.3
+NYU Langone Hospitals#123, Test way,Test,Test county,New York,00000#(547) 714-7020#999.0
+New York Presbyterian Hospital - Columbia Presbyterian Center#NYU Langone Medical Center, 1st Avenue, Kips Bay, Manhattan, Manhattan Community Board 6, New York County, NYC, New York, 100#(482) 439-5289#130.4
+New York Presbyterian Hospital - Morgan Stanley#Columbia University Medical Center, 630, West 168th Street, Washington Heights, Manhattan, Manhattan Community Board 12, New York County, NYC, New York, 10031#(861) 648-9254#127.9
+Mount Sinai West#Haaren Hall, 899, 10th Avenue, 1 West End Ave trade area, Hell's Kitchen, Manhattan, Manhattan Community Board 4, New York County, NYC, New York, 10019#(986) 612-4366#131.9
+Mount Sinai St. Luke's#Mount Sinai St. Luke's, 1111, Amsterdam Avenue, Morningside Heights, Manhattan, Manhattan Community Board 9, New York County, NYC, New York, 10029#(862) 314-1383#131.0
+Henry J. Carter Specialty Hospital#Roosevelt Landings, Main Street, Manhattan Community Board 8, New York County, NYC, New York, 10044#(343) 896-0707#134.7
+Elmhurst Hospital Center#NYC Health + Hospitals/Elmhurst, 79-01, Broadway, Elmhurst, Queens County, NYC, New York, 11373#(321) 713-6585#131.2
+Flushing Hospital Medical Center#147th Street, Murray Hill, Queens, Queens County, NYC, New York, 11355#(432) 919-6057#133.6
+Jamaica Hospital Medical Center#138-62, Jamaica Avenue, Jamaica, Queens, Queens County, NYC, New York, 11435#(498) 473-8588#132.6
+Long Island Jewish Medical Center#LIJ, 270-05, 76th Avenue, Glen Oaks, Queens County, NYC, New York, 11040#(548) 244-8126#141.8
+Queens Hospital Center#NYC Health + Hospitals/Queens, 82-68, 164th Street, Fresh Meadows, Queens, Queens County, NYC, New York, 11432#(288) 949-3906#131.5
+St Johns Episcopal Hospital So Shore#Saint John's Episcopal Hospital, 327, Beach 19th Street, Roy Reuther Houses, Far Rockaway, Queens County, NYC, New York, 11691#(481) 215-2500#132.9
+NewYork-Presbyterian/Queens#NewYork-Presbyterian/Queens, 56-45, Main Street, Murray Hill, Queens, Queens County, NYC, New York, 11355#(244) 654-0963#130.3
+Long Island Jewish Forest Hills#Long Island Jewish Forest Hills, 102-01, 66th Avenue, Rego Park, Queens County, NYC, New York, 11375#(489) 942-1974#135.0
+Mount Sinai Hospital - Mount Sinai Hospital of Queens#Mount Sinai Queens, 25-10, 30th Avenue, Astoria, Queens County, NYC, New York, 11102#(642) 269-1996#140.3
+Woodhull Medical & Mental Health Center#755, Broadway, Bed-Stuy, Kings County, NYC, New York, 11206#(633) 876-5409#143.7
+Staten Island University Hosp-South#Staten Island University Hospital South, 375, Seguine Avenue, Princes Bay, Richmond County, NYC, New York, 10309#(324) 555-6352#134.5
+Richmond University Medical Center#RUMC, 355, Bard Avenue, West New Brighton, Richmond County, NYC, New York, 10310#(272) 915-2359#124.5
+Staten Island University Hosp-North#Staten Island University Hospital, 475, Seaview Avenue, Linden-Park, Todt Hill, Richmond County, NYC, New York, 10305#(660) 228-8278#252.9
+Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div#Jack D. Weiler Hospital, 1825, Eastchester Road, Morris Park, The Bronx, Bronx County, NYC, New York, 10461#(619) 564-8215#123.1

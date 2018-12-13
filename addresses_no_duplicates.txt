@@ -1,0 +1,175 @@
+Albany Medical Center, 43, New Scotland Avenue, New Scotland, Albany, Albany County, New York, 12208
+Albany Memorial Hospital, 600, Northern Boulevard, Arbor Hill, Albany, Albany County, New York, 12204
+Saint Peter's Hospital, 315, South Manning Boulevard, New Scotland, Albany, Albany County, New York, 12208
+Jones Memorial Hospital, 191, North Main Street, Wellsville, Allegany County, New York, 14895
+Binghamton General Hospital, 10-42, Mitchell Avenue, Southside, Binghamton, Broome County, New York, 13903
+Lourdes Hospital, 169, Riverside Drive, Westside, Binghamton, Union Town, Broome County, New York, 13905
+Binghamton General Hospital Parking, Park Avenue, Southside, Binghamton, Broome County, New York, 13902
+OGH, 515, Main Street, Olean, Cattaraugus County, New York, 14760
+ACH, 17, Lansing Street, Auburn, Cayuga County, New York, 13021
+Brooks Memorial Hospital, 529, Central Avenue, Dunkirk, Chautauqua County, New York, 14048
+UPMC Chautauqua WCA, 207, Foote Avenue, Jamestown, Chautauqua County, New York, 14702
+123, Test way,Test,Test county,New York,00000
+Lake Shore Health Care Center, 845, Main Road, Hanford Bay, Chautauqua County, New York, 14081
+Arnot Ogden Medical Center, 600, Roe Avenue, Elmira, Chemung County, New York, 14905
+Saint Joseph's Hospital, 555, St. Joseph Boulevard, Elmira, Chemung County, New York, 14901
+UHS Chenango Memorial Hospital, 179, North Broad Street, City of Norwich, Town of Norwich, Chenango County, New York, 13815
+Champlain Valley Physicians Hospital, 75, Beekman Street, Plattsburgh, Clinton County, New York, 12901
+Columbia Memorial Hospital, 71, Prospect Avenue, Hudson, Columbia County, New York, 12534
+13, West Main Street, Cortland, Cortlandville Town, Cortland County, New York, 13045
+MidHudson Regional Hospital, 241, North Road, Fairview, Town of Poughkeepsie, Dutchess County, New York, 12601
+VBMC, 45, Reade Place, Poughkeepsie, Dutchess County, New York, 12601
+Northern Dutchess Hospital, 6511, Spring Brook Avenue, Rhinebeck, Town of Rhinebeck, Dutchess County, New York, 12572
+United Memorial Medical Center, 127, North Street, Batavia, Genesee County, New York, 14020
+BGMC, 100, High Street, Allentown, Buffalo, Erie County, New York, 14203
+203, Bryant Street, Elmwood Village, Buffalo, Erie County, New York, 14222
+ECMC, 462, Grider Street, Central Park, Buffalo, Erie County, New York, 14215
+198, Lorraine Avenue, Buffalo, Erie County, New York, 14220
+Kensington Expressway, Buffalo, Erie County, New York, 14203
+Sisters of Charity Hospital, 2157, Main Street, Parkside, Buffalo, Erie County, New York, 14214
+East Loop Road, South Setauket, Suffolk County, New York, 11794
+Kenmore Mercy Hospital, 2950, Elmwood Avenue, Tonawanda, Tonawanda Town, Erie County, New York, 14217
+224, Elm Street, Springville, Erie County, New York, 14141
+Sisters of Charity Hospital, Saint Joseph Campus, 2605, Harlem Road, Cheektowaga, Cheektowaga Town, Erie County, New York, 14225
+Adirondack Medical Center, 2233, NY 86, Saranac Lake, Franklin County, New York, 12983
+Alice Hyde Medical Center, 133, Park Street, Malone, Franklin County, New York, 12953
+97, East State Street, City of Gloversville, Town of Johnstown, Fulton County, New York, 12078
+Samaritan Medical Center, 830, Washington Street, Watertown, Jefferson County, New York, 13601
+Noyes Memorial Hospital, 111, Clara Barton Street, Dansville, North Dansville Town, Livingston County, New York, 14437
+Oneida Healthcare, 321, Genesee Street, City of Oneida, Madison County, New York, 13421
+Highland Hospital, 1000, South Avenue, Strong, Rochester, Monroe County, New York, 14620
+Rochester Regional Health: Rochester General Campus, 1425, Portland Avenue, Irondequoit, Irondequoit Town, Monroe County, New York, 14621
+University of Rochester Medical Center Campus, Middle Drive, Strong, Rochester, Monroe County, New York, 14642
+MCH, 435, East Henrietta Road, Strong, Rochester, Monroe County, New York, 14424
+Unity Hospital, 1555, Long Pond Road, Greece, Greece Town, Monroe County, New York, 14626
+Saint Mary's Hospital, 427, Guy Park Avenue, South Amsterdam, City of Amsterdam, Montgomery County, New York, 12010
+Glen Cove Hospital, 101, Saint Andrews Lane, Glen Cove, Nassau County, New York, 11542
+NYU Winthrop Hospital, 259, 1st Street, Mineola, Nassau County, New York, 11501
+992, North Village Avenue, Lakeview, Nassau County, New York, 11570
+Long Island Jewish Valley Stream, 900, Franklin Avenue, North Valley Stream, Nassau County, New York, 11580
+South Nassau Communities Hospital, 1, Oswald Court, Oceanside, Nassau County, New York, 11572
+Nassau University Medical Center, 2201, Hempstead Turnpike, East Meadow, Nassau County, New York, 11554
+2, High Street, Manhasset, Nassau County, New York, 11030
+Syosset Hospital, 221, Jericho Turnpike, Bagga Plaza, Syosset, Nassau County, New York, 11791
+St Joseph Hospital, 4295, Hempstead Turnpike, Levittown, Nassau County, New York, 11735
+Plainview Hospital, 888, Old Country Road, Plainview, Nassau County, New York, 11803
+38, Bayberry Ridge, Flower Hill, Nassau County, New York, 11576
+Eastern Niagara Health System, 521, East Avenue, Lockport, Lockport Town, Niagara County, New York, 14094
+Niagara Falls Memorial Medical Center, 621, 10th Street, Niagara Falls, Niagara County, New York, 14302
+DeGraff Memorial Hospital, 445, Tremont Street, North Tonawanda, Niagara County, New York, 14120
+Mount Saint Mary's Hospital, 5300, Military Road, Lewiston Heights, Lewiston Town, Niagara County, New York, 14092
+Rome Memorial Hospital, 1500, North James Street, City of Rome, Oneida County, New York, 13440
+Saint Elizabeth Medical Center, 2209, Genesee Street, City of Utica, Oneida County, New York, 13502
+Saint Lukes Memorial Hospital, 1656, Champlin Avenue, City of Utica, Town of New Hartford, Oneida County, New York, 13502
+Upstate University Hospital Community Campus, 4900, Broad Road, Elmwood, Syracuse, Town of Onondaga, Onondaga County, New York, 13215
+Saint Josephs Hospital Health Center, 301, Prospect Avenue, Downtown, Syracuse, Onondaga County, New York, 13203
+Upstate University Downtown Campus, East Adams Street, University Hill, Syracuse, Onondaga County, New York, 13210
+Crouse Hospital, 736, Irving Avenue, University Hill, Syracuse, Onondaga County, New York, 13210
+Geneva General Hospital, 196, North Street, Geneva, Geneva Town, Ontario County, New York, 14456
+Coulter Road, Clifton Springs, Manchester Town, Ontario County, New York, 14432
+F.F. Thompson Hospital, 350, Parrish Street, Canandaigua, Canandaigua Town, Ontario County, New York, 14424
+Saint Luke's Cornwall Hospital, 70, Dubois Street, Newburgh, Orange County, New York, 12550
+Orange Regional Medical Center, 707, East Main Street, Midway Park, Town of Wallkill, Orange County, New York, 10940
+Saint Anthony Community Hospital, 15, Maple Avenue, Warwick, Town of Warwick, Orange County, New York, 10990
+Bon Secours Community Hospital, 160, East Main Street, Port Jervis, Orange County, New York, 12771
+Oswego Hospital, 110, West 6th Street, Oswego, Oswego County, New York, 13126
+A. O. Fox Hospital, 1, Norton Avenue, City of Oneonta, Otsego County, New York, 13820
+Helen Hayes Hospital, S Liberty Dr, West Haverstraw, Haverstraw, Rockland County, New York, 10993
+Bassett Medical Center, 1, Atwell Road, Cooperstown, Town of Otsego, Otsego County, New York, 13326
+PHC, 670, Stoneleigh Avenue, Carmel, Town of Carmel, Putnam County, New York, 10512
+Samaritan Hospital, 2215, Burdett Avenue, Downtown, City of Troy, Rensselaer County, New York, 12180
+Nyack Hospital, 160, North Midland Avenue, Nyack, Town of Orangetown, Rockland County, New York, 10960
+Good Samaritan Hospital, 255, Lafayette Avenue, Suffern, Town of Ramapo, Rockland County, New York, 10901
+Claxton-Hepburn Medical Center, 214, King Street, Ogdensburg, Saint Lawrence County, New York, 13669
+160, Maple Street, Massena, Saint Lawrence County, New York, 13662
+122, Leroy Street, Potsdam, Saint Lawrence County, New York, 13676
+Saratoga Hospital, 211, Church Street, City of Saratoga Springs, Saratoga County, New York, 12866
+Wendell Avenue, Schenectady, Schenectady County, New York, 12308
+Sunnyview Rehibilitation Hospital, 1270, Belmont Avenue, Schenectady, Schenectady County, New York, 12308
+Bellevue Woman's Center, 2210, Troy Schenectady Road, Hawthorne Hill, Niskayuna, Schenectady County, New York, 12309
+Cobleskill Regional Hospital, 178, Grandview Drive, Cobleskill, Town of Cobleskill, Schoharie County, New York, 12043
+Denison Parkway East, Corning, Steuben County, New York, 14830
+Saint James Mercy Hospital, 411, Canisteo Street, Hornell, Steuben County, New York, 14843
+Ira Davenport Memorial Hospital, 7571, State Highway 54, Bath, Steuben County, New York, 14810
+42, Hospital Road, East Patchogue, Suffolk County, New York, 11772
+Stony Brook Southampton Hospital, 240, Meeting House Lane, Southampton, Suffolk County, New York, 11968
+Eastern Long Island Hospital, 201, Manor Place, Greenport, Suffolk County, New York, 11944
+John T. Mather Memorial Hospital, 75, North Country Road, Port Jefferson, Suffolk County, New York, 11777
+Saint Charles Hospital, 200, Belle Terre Road, Port Jefferson, Suffolk County, New York, 11777
+Huntington Hospital, 270, Park Avenue, Huntington, Suffolk County, New York, 11743
+Southside Hospital, 301, East Main Street, Bay Shore, Suffolk County, New York, 11706
+Good Samaritan Hospital Medical Center, 1000, Montauk Highway, West Islip, Suffolk County, New York, 11795
+Peonic Bay Medical Center, 1300, Roanoke Avenue, Riverhead, Suffolk County, New York, 11901
+53, St Johnland Road, Smithtown, Suffolk County, New York, 11787
+52, Big Woods Road, Harris, Town of Thompson, Sullivan County, New York, 12742
+Cayuga Medical Center at Ithaca, 101, Harris B Dates Drive, Northwest Ithaca, Tompkins County, New York, 14850
+HealthAlliance Hospital Mary's Avenue Campus, 105, Marys Avenue, Kingston, Ulster County, New York, 12401
+HealthAlliance Hospital Broadway Campus, 396, Broadway, Kingston, Ulster County, New York, 12401
+Glens Falls Hospital, 100, Park Street, Glens Falls, Warren County, New York, 12801
+154, Stuerwald Avenue, Newark, Arcadia Town, Wayne County, New York, 14513
+Hudson Valley Hospital Center, 1980, Crompond Road, Peekskill, Cortland, Westchester County, New York, 10567
+White Plains Hospital, 41, East Post Road, White Plains, Westchester County, New York, 10601
+Montefiore Mount Vernon Hospital, 12, North 7th Avenue, Mount Vernon, Westchester County, New York, 10550
+Montefiore New Rochelle, 16, Guion Place, New Rochelle, Westchester County, New York, 10801
+Saint John's Riverside Hospital - Dobbs Ferry Pavilion, 128, Ashford Avenue, Dobbs Ferry, Town of Greenburgh, Westchester County, New York, 10522
+Saint John's Riverside Hospital, 967, North Broadway, Yonkers, Westchester County, New York, 10701
+2, Vark Street, Yonkers, Westchester County, New York, 10701
+Northern Westchester Hospital, 400, East Main Street, Mount Kisco, Westchester County, New York, 10549
+NewYork-Presbyterian - Lawrence Hospital, 55, Palmer Avenue, Bronxville, Town of Eastchester, Westchester County, New York, 10708
+Phelps Lane, Sleepy Hollow, Town of Mount Pleasant, Westchester County, New York, 10591
+Blythedale Children's Hospital, 95, Bradhurst Avenue, Mount Pleasant, Town of Mount Pleasant, Westchester County, New York, 10595
+47, Galloway Lane, Mount Pleasant, Town of Mount Pleasant, Westchester County, New York, 10595
+Wyoming County Community Health System, 400, North Main Street, Warsaw, Wyoming County, New York, 14569
+Albert Einstein College of Medicine, Morris Park Avenue, Morris Park, The Bronx, Bronx County, NYC, New York, 10461
+Montefiore Medical Center - Wakefield Campus, 600, East 233rd Street, Wakefield, The Bronx, Bronx County, NYC, New York, 10466
+Montefiore, 111, East 210th Street, Norwood, The Bronx, Bronx County, NYC, New York, 10467
+Lincoln Hospital, 234, Canal Place, Mott Haven, Bronx County, NYC, New York, 10455
+1728, Eastchester Road, Morris Park, The Bronx, Bronx County, NYC, New York, 10461
+Saint Barnabas Hospital, 4487, 3rd Avenue, Belmont, The Bronx, Bronx County, NYC, New York, 10457
+Bronx-Lebanon Hospital Center Concourse Division, 1650, Grand Concourse, Tremont, The Bronx, Bronx County, NYC, New York, 10457
+North Central Bronx Hospital, 3424, Kossuth Avenue, Norwood, The Bronx, Bronx County, NYC, New York, 10467
+2134, Strauss Street, Brownsville, BK, Kings County, NYC, New York, 11212
+Long Island University Brooklyn Campus, 1, Willoughby Street, Downtown Brooklyn, Kings County, NYC, New York, 11201
+2523, Kings Highway, Flatlands, BK, Kings County, NYC, New York, 11229
+Coney Island Hospital, 2601, Ocean Parkway, Brighton Beach, Kings County, NYC, New York, 11235
+Kings County Hospital Center, 451, Clarkson Avenue, Brooklyn Community Board 17 Neighborhoods, BK, Kings County, NYC, New York, 11203
+NYU Langone Hospital, 150, 55th Street, Sunset Park, Kings County, NYC, New York, 11220
+Maimonides Medical Center, 4802, 10th Avenue, Borough Park, BK, Kings County, NYC, New York, 11219
+NewYork-Presbyterian Brooklyn Methodist Hospital, 506, 6th Street, Park Slope, BK, Kings County, NYC, New York, 11216
+Interfaith Medical Center, 1545, Atlantic Avenue, Bed-Stuy, BK, Kings County, NYC, New York, 11213
+Kingsbrook Jewish Medical Center, 585, Schenectady Avenue, East Flatbush, BK, Kings County, NYC, New York, 11203
+Wyckoff Heights Medical Center, 374, Stockholm Street, Ridgewood, Queens County, NYC, New York, 11237
+SUNY Downstate Campus, Lenox Road, Brooklyn Community Board 17 Neighborhoods, BK, Kings County, NYC, New York, 11203
+1370, East 32nd Street, Flatlands, BK, Kings County, NYC, New York, 11210
+HSP 01 - NYPresb. Downtown, 170, William Street, Financial District, Manhattan, Manhattan Community Board 1, New York County, NYC, New York, 10038
+NYC Health + Hospitals/Bellevue, 462, 1st Avenue, Kips Bay, Manhattan, Manhattan Community Board 6, New York County, NYC, New York, 10010
+6, East 16th Street, Union Square, Manhattan, Manhattan Community Board 5, New York County, NYC, New York, 10003
+502, Malcolm X Boulevard, Harlem, Manhattan, Manhattan Community Board 10, New York County, NYC, New York, 10037
+310, 2nd Avenue, Kips Bay, Manhattan, Manhattan Community Board 6, New York County, NYC, New York, 10003
+HSP 14 - NYPresb. Weill Cornell, 525, East 68th Street, Lenox Hill, Manhattan, Manhattan Community Board 8, New York County, NYC, New York, 10065
+Lenox Hill Hospital, 100, East 77th Street, Upper East Side, Manhattan, Manhattan Community Board 8, New York County, NYC, New York, 10075
+1285, York Avenue, Lenox Hill, Manhattan, Manhattan Community Board 8, New York County, NYC, New York, 10065
+HSP 12 - Metropolitan Hospital, 1901, 1st Avenue, East Harlem, Manhattan, Manhattan Community Board 11, New York County, NYC, New York, 10129
+The Mount Sinai Hospital, 1, Gustave L. Levy Place, East Harlem, Manhattan, Manhattan Community Board 11, New York County, NYC, New York, 10129
+HSP 14 - NYPresb. Weill Cornell, 525, East 68th Street, Lenox Hill, Manhattan, Manhattan Community Board 8, New York County, NYC, New York, 10065
+East 14th Street & 2nd Avenue, East 14th Street, East Village, Manhattan, Manhattan Community Board 6, New York County, NYC, New York, 10003
+123, Test way,Test,Test county,New York,00000
+NYU Langone Medical Center, 1st Avenue, Kips Bay, Manhattan, Manhattan Community Board 6, New York County, NYC, New York, 100
+Columbia University Medical Center, 630, West 168th Street, Washington Heights, Manhattan, Manhattan Community Board 12, New York County, NYC, New York, 10031
+Haaren Hall, 899, 10th Avenue, 1 West End Ave trade area, Hell's Kitchen, Manhattan, Manhattan Community Board 4, New York County, NYC, New York, 10019
+Mount Sinai St. Luke's, 1111, Amsterdam Avenue, Morningside Heights, Manhattan, Manhattan Community Board 9, New York County, NYC, New York, 10029
+Roosevelt Landings, Main Street, Manhattan Community Board 8, New York County, NYC, New York, 10044
+NYC Health + Hospitals/Elmhurst, 79-01, Broadway, Elmhurst, Queens County, NYC, New York, 11373
+147th Street, Murray Hill, Queens, Queens County, NYC, New York, 11355
+138-62, Jamaica Avenue, Jamaica, Queens, Queens County, NYC, New York, 11435
+LIJ, 270-05, 76th Avenue, Glen Oaks, Queens County, NYC, New York, 11040
+NYC Health + Hospitals/Queens, 82-68, 164th Street, Fresh Meadows, Queens, Queens County, NYC, New York, 11432
+Saint John's Episcopal Hospital, 327, Beach 19th Street, Roy Reuther Houses, Far Rockaway, Queens County, NYC, New York, 11691
+NewYork-Presbyterian/Queens, 56-45, Main Street, Murray Hill, Queens, Queens County, NYC, New York, 11355
+Long Island Jewish Forest Hills, 102-01, 66th Avenue, Rego Park, Queens County, NYC, New York, 11375
+Mount Sinai Queens, 25-10, 30th Avenue, Astoria, Queens County, NYC, New York, 11102
+755, Broadway, Bed-Stuy, Kings County, NYC, New York, 11206
+ Staten Island University Hospital South, 375, Seguine Avenue, Princes Bay, Richmond County, NYC, New York, 10309
+RUMC, 355, Bard Avenue, West New Brighton, Richmond County, NYC, New York, 10310
+ Staten Island University Hospital, 475, Seaview Avenue, Linden-Park, Todt Hill, Richmond County, NYC, New York, 10305
+Jack D. Weiler Hospital, 1825, Eastchester Road, Morris Park, The Bronx, Bronx County, NYC, New York, 10461
